@@ -1,0 +1,48 @@
+*   {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+header  {
+    background-color: pink;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav {
+    background-color: purple;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer  {
+    background-color: violet;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+aside   {
+    width: 30%;
+    background-color: thistle;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+main    {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    
+}
+div{
+    display: flex;
+    height:75vh;
+}
